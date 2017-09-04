@@ -7,3 +7,19 @@
 5-axis, high performance, powerful board with Smoothieware opensource firmware. Designed for 3D printer, Laser cutter or CNC mill. Five changed independent drivers on board. Two extruders 3d printer support.
 
 5-ти осевая, высоко производительная плата, создана для работы с прошивкой Smoothieware с открытым исходным кодом. Предназначена для системы управления 3Д принтером, лазерным гравером или обрабатывающим станком. Имеет 5 заменяемых, независимых драйверов управления шаговыми двигателями Поддерживает 3д принтеры с 2-мя экструдерами.
+
+# 2130
+Stepper Motor Driver based on a Trinamic TMC2130. Very low noise motor driver. SilentStepStick. stealthChop - technology for quiet operation and smooth motion 
+
+Драйвер шагового двигателя на основе TMC2130 с очень низким шумом. Технология stealthChop для бесшумного  и плавного движения по осям.
+
+# 2130
+Stepper Motor Driver based on a Trinamic TMC2208. Very low noise motor driver. SilentStepStick. stealthChop2 - technology for quiet operation and smooth motion 
+
+Драйвер шагового двигателя на основе TMC2208 с очень низким шумом. Технология stealthChop2 для бесшумного  и плавного движения по осям.
+
+# Aligner drv8825 
+Anti muar aligner for drv8825
+
+Согласователь напряжения для драйвера drv8825 для борьбы с паразитным рисунком при печати.
+
