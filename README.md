@@ -32,3 +32,5 @@ Two boards copying stepper drivers motions. Setup under the drivers.
 Board protect stepper driver against induction voltages.
 
 Плата защищает драйвер от всплесков паразитного индуктивного напряжения.
+
+Для связи ales2-k@yandex.ru // +79299840628 
