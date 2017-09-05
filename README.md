@@ -33,4 +33,4 @@ Board protect stepper driver against induction voltages.
 
 Плата защищает драйвер от всплесков паразитного индуктивного напряжения.
 
-Для связи ales2-k@yandex.ru // +79299840628 
+# Для связи ales2-k@yandex.ru // +79299840628 
